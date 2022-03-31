@@ -1,3 +1,8 @@
+/*
+	Challenge : mod37
+	Modulo + ASCII conversion
+*/
+
 #include <stdio.h>
 
 int		main(void)
